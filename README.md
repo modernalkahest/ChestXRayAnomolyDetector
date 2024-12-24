@@ -1,4 +1,4 @@
-# ChestXRayAnomolyDetector
+# Chest X-Ray Anomaly Detector
 Chest diseases encompass a wide range of conditions that affect the respiratory system and organs within the chest cavity, including the lungs, heart, and blood vessels. The impact of chest diseases can vary significantly depending on the specific condition, severity, and individual factors.
 Chest diseases can have a profound impact on an individual's physical and mental well-being. 
 
